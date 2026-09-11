@@ -1,4 +1,5 @@
 // Simple C++ program to display "Hello World" 
+// Author: Alaa Fadel, alaa423fadelgmail.com
 // Header file for input output functions 
 #include<iostream>  
   
